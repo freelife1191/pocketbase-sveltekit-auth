@@ -64,3 +64,9 @@ https://github.com/pocketbase/js-sdk#usage
 - [Svelte Auto Import](https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
+
+## Hook
+- https://github.com/pocketbase/js-sdk#auth-store
+- https://github.com/pocketbase/js-sdk#ssr-integration
+
+Pocketbase auth-store 사용
