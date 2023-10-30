@@ -43,3 +43,24 @@ app.html에 추가
 
 ## nav layout 추가
 https://picocss.com/docs/navs.html
+
+
+## Pocketbase Instance 생성
+
+pocketbase npm 패키지 설치
+https://github.com/pocketbase/js-sdk#nodejs-via-npm
+```bash
+$ npm install pocketbase --save
+```
+
+pocketbase 사용 설정
+https://github.com/pocketbase/js-sdk#usage
+
+### VS Code 플러그인 설치
+- [Sveltekit Extension Pack](https://marketplace.visualstudio.com/items?itemName=ZimbronApps.sveltekit-extension-pack)
+- [kit-snippets](https://marketplace.visualstudio.com/items?itemName=ArielSalgado.kit-snippets)
+- [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import)
+- [svelte](https://marketplace.visualstudio.com/items?itemName=1YiB.svelte-bundle)
+- [Svelte Auto Import](https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
