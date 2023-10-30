@@ -1,5 +1,12 @@
 import { redirect } from "@sveltejs/kit";
 
+/** @type {import("./$types").PageServerLoad} */
+export async function load({ locals }) {
+    if (locals.pb.authStore.isValid) {
+        throw redirect(303, '/');
+    }
+}
+
 /** @type {import("./$types").Actions} */
 export const actions = {
     default: async ({ locals, request }) => {
