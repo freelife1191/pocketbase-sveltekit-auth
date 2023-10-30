@@ -1,12 +1,12 @@
 # 포켓베이스와 스벨트킷으로 인증 서비스 구현
 
-![[attachments/20231029215129.png]]
+![세션 방식의 인증](attachments/20231029215129.png)
 
-![[attachments/20231029215203.png]]
+![JWT 방식의 인증](attachments/20231029215203.png)
 
-![[attachments/20231029215222.png]]
+![OAuth 방식의 인증](attachments/20231029215222.png)
 
-![[attachments/20231029220447.png]]
+![인증 구현](attachments/20231029220447.png)
 
 ## Pocketbase 설치
 https://pocketbase.io/docs/
