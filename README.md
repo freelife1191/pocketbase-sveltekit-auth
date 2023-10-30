@@ -81,3 +81,15 @@ form에 action을 설정하지 않으면 `+page.server.js`의 default action으�
 - email: cat@example.com
 - password: 11112222
 - passwordConfirm: 11112222
+
+
+## 로그인 구현
+- https://github.com/pocketbase/js-sdk#ssr-integration
+
+참고해서 구현
+
+회원가입과 거의 동일
+
+로그인 데이터
+- email: cat@example.com
+- password: 11112222
