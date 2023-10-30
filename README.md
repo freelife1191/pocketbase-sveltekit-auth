@@ -40,3 +40,6 @@ app.html에 추가
 ```html
 <**link** _rel_="stylesheet" _href_="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
 ```
+
+## nav layout 추가
+https://picocss.com/docs/navs.html
