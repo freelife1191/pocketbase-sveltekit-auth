@@ -70,3 +70,14 @@ https://github.com/pocketbase/js-sdk#usage
 - https://github.com/pocketbase/js-sdk#ssr-integration
 
 Pocketbase auth-store 사용
+
+
+## 회원가입 구현
+
+form에 action을 설정하지 않으면 `+page.server.js`의 default action으로 처리됨
+
+테스트 데이터
+- name: 강해린
+- email: cat@example.com
+- password: 11112222
+- passwordConfirm: 11112222
